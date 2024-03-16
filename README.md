@@ -6,7 +6,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/nazil-sheikh-aaba63228" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="25" alt="linkedin logo"  />
   </a>
@@ -24,17 +24,13 @@
 
 ###
 
-<h3 align="center">Clean code always looks like it was written by someone who cares</h3>
+<h3 align="left">Clean code always looks like it was written by someone who cares</h3>
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nazil-the-professor.nazil-the-professor&"  />
 </div>
-
-###
-
-<h3 align="left"></h3>
 
 ###
 
@@ -74,11 +70,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nazil-the-professor&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=nazil-the-professor&locale=en&mode=weekly&theme=nightowl&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nazil-the-professor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/nazil-the-professor/nazil-the-professor/output/snake.svg" alt="Snake animation" />
 
