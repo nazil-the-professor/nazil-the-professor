@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="249" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXc3cnR4NnNnbGIxcDdyYnc2MzFxNnVtd3E4YmRoeDE3NHM4cmV3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/nazil-sheikh-aaba63228" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="25" alt="linkedin logo"  />
@@ -24,12 +20,22 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXc3cnR4NnNnbGIxcDdyYnc2MzFxNnVtd3E4YmRoeDE3NHM4cmV3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"  />
+
+###
+
 <h3 align="left">Clean code always looks like it was written by someone who cares</h3>
 
 ###
 
+<p align="left">Visitors 👀</p>
+
+###
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nazil-the-professor.nazil-the-professor&"  />
+  <img src="https://profile-counter.glitch.me/nazil-the-professor/count.svg?"  />
 </div>
 
 ###
@@ -38,15 +44,15 @@
 
 ###
 
-<p align="left">I'm from Bhopal MP, currently i am pursuing my BTech Degree in the specialization of Artificial Intelligence and Data Science <br><br>-🧑🏻‍💻 Of course, bad code can be cleaned up. But it’s very expensive<br>- 📚 I'm currently learning Deep Learning</p>
-
-###
-
 <h3 align="left"></h3>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<p align="left">I'm from Bhopal MP,<br> currently i am pursuing my BTech Degree <br>in the specialization of Artificial Intelligence <br>and Data Science <br><br>-🧑🏻‍💻 Of course, bad code can be cleaned up. But it’s very expensive<br><br>- 📚 I'm currently learning Deep Learning</p>
 
 ###
 
