@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Visitors 👀</p>
+<p align="left">Visitors 👀 </p>
 
 ###
 
@@ -48,14 +48,12 @@
 
 ###
 
-
-
-
 <p align="left">I'm from Bhopal MP,<br> currently i am pursuing my BTech Degree <br>in the specialization of Artificial Intelligence <br>and Data Science <br><br>-🧑🏻‍💻 Of course, bad code can be cleaned up. But it’s very expensive<br><br>- 📚 I'm currently learning Deep Learning</p>
 
 ###
+
 <h3 align="left">🛠 Language and tools</h3>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
