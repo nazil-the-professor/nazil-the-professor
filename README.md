@@ -49,7 +49,7 @@
 
 ###
 
-<p align="left">I'm from Bhopal MP,<br> currently i am pursuing my BTech Degree <br>in the specialization of Artificial Intelligence <br>and Data Science <br><br>-🧑🏻‍💻 Of course, bad code can be cleaned up. But it’s very expensive<br><br>- 📚 I'm currently learning Deep Learning</p>
+<p align="left">I'm from Bhopal MP,<br> currently i am pursuing my BTech Degree <br>in Artificial Intelligence <br>and Data Science <br><br>-🧑🏻‍💻 Of course, bad code can be cleaned up. But it’s very expensive<br><br>- 📚 I'm currently learning Deep Learning</p>
 
 ###
 
