@@ -1,4 +1,4 @@
-<h2 align="left">Hii there, I'm  Nazil sheikh 👋🏻</h2>
+<h2 align="left">Hiii there, I'm  Nazil sheikh 👋🏻</h2>
 
 ### 
 
