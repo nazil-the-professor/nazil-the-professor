@@ -3,10 +3,10 @@
 ###   
 
 <div align="left"> 
-  <a href="https://www.linkedin.com/in/nazil-sheikh-aaba63228" target="_blank">
+  <a href="https://www.linkedin.com/in/nazil-sheikh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/nazil_the_professor/" target="_blank">
+  <a href="https://www.instagram.com/nazil__the__professor/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="53" height="25" alt="instagram logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/nazilsheikhemer1" target="_blank">
