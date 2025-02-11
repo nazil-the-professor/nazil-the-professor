@@ -88,3 +88,15 @@
 <img src="https://raw.githubusercontent.com/nazil-the-professor/nazil-the-professor/output/snake.svg" alt="Snake animation" />
 
 ###
+
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohitsharma1214&theme=radical" alt="GitHub Trophies">
+</p>
+
+## Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</p>
